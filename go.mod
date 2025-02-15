@@ -54,10 +54,10 @@ require (
 	github.com/gizak/termui/v3 v3.1.0
 	github.com/godbus/dbus/v5 v5.1.0
 	github.com/golang/mock v1.6.0
-	github.com/google/go-cmp v0.5.9
+	github.com/google/go-cmp v0.6.0
 	github.com/google/go-containerregistry v0.16.1
 	github.com/google/go-tpm v0.9.0
-	github.com/google/nftables v0.1.0
+	github.com/google/nftables v0.2.0
 	github.com/google/uuid v1.3.1
 	github.com/gopacket/gopacket v1.1.2-0.20230910070655-0d0aa7b3b2d7
 	github.com/gosuri/uiprogress v0.0.1
@@ -129,11 +129,11 @@ require (
 	go.etcd.io/etcd/etcdutl/v3 v3.5.9
 	go.uber.org/zap v1.26.0
 	go4.org/netipx v0.0.0-20230728184502-ec4c8b891b28
-	golang.org/x/net v0.15.0
-	golang.org/x/sync v0.3.0
-	golang.org/x/sys v0.12.0
-	golang.org/x/term v0.12.0
-	golang.org/x/text v0.13.0
+	golang.org/x/net v0.22.0
+	golang.org/x/sync v0.6.0
+	golang.org/x/sys v0.18.0
+	golang.org/x/term v0.18.0
+	golang.org/x/text v0.14.0
 	golang.org/x/time v0.3.0
 	golang.zx2c4.com/wireguard/wgctrl v0.0.0-20230429144221-925a1e7659e6
 	google.golang.org/grpc v1.58.1
@@ -236,7 +236,7 @@ require (
 	github.com/matttproud/golang_protobuf_extensions v1.0.4 // indirect
 	github.com/mdlayher/ethernet v0.0.0-20220221185849-529eae5b6118 // indirect
 	github.com/mdlayher/packet v1.1.2 // indirect
-	github.com/mdlayher/socket v0.4.1 // indirect
+	github.com/mdlayher/socket v0.5.0 // indirect
 	github.com/mitchellh/go-homedir v1.1.0 // indirect
 	github.com/mitchellh/go-testing-interface v1.14.1 // indirect
 	github.com/mitchellh/go-wordwrap v1.0.1 // indirect
@@ -292,7 +292,7 @@ require (
 	go.opentelemetry.io/otel/trace v1.10.0 // indirect
 	go.starlark.net v0.0.0-20230525235612-a134d8f9ddca // indirect
 	go.uber.org/multierr v1.11.0 // indirect
-	golang.org/x/crypto v0.13.0 // indirect
+	golang.org/x/crypto v0.21.0 // indirect
 	golang.org/x/mod v0.12.0 // indirect
 	golang.org/x/oauth2 v0.12.0 // indirect
 	golang.org/x/tools v0.11.0 // indirect
